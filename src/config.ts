@@ -13,11 +13,11 @@ import type {
 } from '~/types'
 
 export const SITE: Site = {
-  title: 'Litos',
-  description: 'Litos is a blog theme built with Astro.js and Dnzzk2.',
-  website: 'https://litos.vercel.app/',
+  title: 'Ating小站',
+  description: 'become better with each passing day',
+  website: 'https://blog.wrihope.top/',
   base: '/',
-  author: 'Dnzzk2',
+  author: 'Ating',
   ogImage: '/og-image.jpg',
 }
 
@@ -59,20 +59,20 @@ export const FOOTER_LINKS: Link[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     name: 'github',
-    url: 'https://github.com/yourname',
+    url: 'https://github.com/cuichan',
     icon: 'icon-[ri--github-fill]',
-    count: 12,
+    count: 2,
   },
-  {
-    name: 'twitter',
-    url: 'https://x.com/yourname',
-    icon: 'icon-[ri--twitter-x-fill]',
-  },
-  {
-    name: 'bilibili',
-    url: 'https://space.bilibili.com/yourSpaceId',
-    icon: 'icon-[ri--bilibili-fill]',
-  },
+  // {
+  //   name: 'twitter',
+  //   url: 'https://x.com/yourname',
+  //   icon: 'icon-[ri--twitter-x-fill]',
+  // },
+  // {
+  //   name: 'bilibili',
+  //   url: 'https://space.bilibili.com/yourSpaceId',
+  //   icon: 'icon-[ri--bilibili-fill]',
+  // },
 ]
 
 /**
@@ -172,15 +172,15 @@ export const SKILLSSHOWCASE_CONFIG: SkillsShowcaseConfig = {
 
 export const GITHUB_CONFIG: GithubConfig = {
   ENABLED: true,
-  GITHUB_USERNAME: 'Dnzzk2',
+  GITHUB_USERNAME: 'cuichan',
   TOOLTIP_ENABLED: true,
 }
 
 export const POSTS_CONFIG: PostConfig = {
   title: 'Posts',
-  description: 'Posts by Dnzzk2',
-  introduce: 'Here, I will share the usage instructions for this theme to help you quickly use it.',
-  author: 'Dnzzk2',
+  description: 'Posts by Ating',
+  introduce: '如是我闻 姑妄听之.',
+  author: 'Ating',
   homePageConfig: {
     size: 5,
     type: 'compact',
@@ -219,17 +219,18 @@ export const PROJECTS_CONFIG: ProjectConfig = {
 }
 
 // get icon https://icon-sets.iconify.design/
+// TODO 项目栏
 export const ProjectList: Project[] = [
-  {
-    name: 'Litos',
-    description: 'A Simple & Modern Blog Theme for Astro.',
-    githubUrl: 'https://github.com/Dnzzk2/Litos',
-    website: 'https://litos.vercel.app/',
-    type: 'image',
-    icon: '/projects/logo.png',
-    star: 16,
-    fork: 5,
-  },
+  // {
+  //   name: 'Litos',
+  //   description: 'A Simple & Modern Blog Theme for Astro.',
+  //   githubUrl: 'https://github.com/Dnzzk2/Litos',
+  //   website: 'https://litos.vercel.app/',
+  //   type: 'image',
+  //   icon: '/projects/logo.png',
+  //   star: 16,
+  //   fork: 5,
+  // },
 ]
 
 export const PHOTOS_CONFIG: PhotosConfig = {
