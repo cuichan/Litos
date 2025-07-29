@@ -23,34 +23,34 @@ export const SITE: Site = {
 
 export const HEADER_LINKS: Link[] = [
   {
-    name: 'Posts',
+    name: '文章',
     url: '/posts',
   },
   {
-    name: 'Projects',
+    name: '项目',
     url: '/projects',
   },
 ]
 
 export const FOOTER_LINKS: Link[] = [
   {
-    name: 'Readme',
+    name: '关于我',
     url: '/',
   },
   {
-    name: 'Posts',
+    name: '文章',
     url: '/posts',
   },
   {
-    name: 'Projects',
+    name: '项目',
     url: '/projects',
   },
   {
-    name: 'Tags',
+    name: '标签',
     url: '/tags',
   },
   {
-    name: 'Photos',
+    name: '生活记录',
     url: '/photos',
   },
 ]
@@ -91,72 +91,33 @@ export const SKILLSSHOWCASE_CONFIG: SkillsShowcaseConfig = {
     {
       direction: 'left',
       skills: [
-        {
-          name: 'JavaScript',
-          icon: 'icon-[mdi--language-javascript]',
-        },
-        {
-          name: 'CSS',
-          icon: 'icon-[mdi--language-css3]',
-        },
-        {
-          name: 'HTML',
-          icon: 'icon-[mdi--language-html5]',
-        },
-        {
-          name: 'TypeScript',
-          icon: 'icon-[mdi--language-typescript]',
-        },
+        { name: 'Spring Boot', icon: 'icon-[logos--spring-icon]' },
+        { name: 'Nginx', icon: 'icon-[logos--nginx]' },
+        { name: 'MyBatis', icon: 'icon-[carbon--data-base]' },
+        { name: 'RabbitMQ', icon: 'icon-[logos--rabbitmq-icon]' },
+        { name: 'Git', icon: 'icon-[mdi--git]' },
+        { name: 'MongoDB', icon: 'icon-[lineicons--mongodb]' },
       ],
     },
     {
       direction: 'right',
       skills: [
-        {
-          name: 'Astro',
-          icon: 'icon-[lineicons--astro]',
-        },
-        {
-          name: 'Node.js',
-          icon: 'icon-[mdi--nodejs]',
-        },
-        {
-          name: 'React',
-          icon: 'icon-[mdi--react]',
-        },
-        {
-          name: 'Next.js',
-          icon: 'icon-[devicon--nextjs]',
-        },
-        {
-          name: 'Tailwind CSS',
-          icon: 'icon-[mdi--tailwind]',
-        },
-        {
-          name: 'Iconify',
-          icon: 'icon-[line-md--iconify2-static]',
-        },
+        { name: 'Java', icon: 'icon-[logos--java]' },
+        { name: 'Redis', icon: 'icon-[logos--redis]' },
+        { name: 'MySQL', icon: 'icon-[logos--mysql]' },
+        { name: 'Maven', icon: 'icon-[logos--maven]' },
+        { name: 'Docker', icon: 'icon-[logos--docker-icon]' },
+        { name: 'Elasticsearch', icon: 'icon-[logos--elasticsearch]' },
       ],
     },
     {
       direction: 'left',
       skills: [
-        {
-          name: 'Ubuntu',
-          icon: 'icon-[mdi--ubuntu]',
-        },
-        {
-          name: 'Git',
-          icon: 'icon-[mdi--git]',
-        },
-        {
-          name: 'MongoDB',
-          icon: 'icon-[lineicons--mongodb]',
-        },
-        {
-          name: 'Vercel',
-          icon: 'icon-[lineicons--vercel]',
-        },
+        { name: 'Linux', icon: 'icon-[logos--linux-tux]' },
+        { name: 'Kafka', icon: 'icon-[logos--kafka-icon]' },
+        { name: 'Prometheus', icon: 'icon-[logos--prometheus]' },
+        { name: 'Grafana', icon: 'icon-[logos--grafana]' },
+        { name: 'SpringCloud', icon: 'icon-[logos--spring-icon]' },
       ],
     },
   ],
