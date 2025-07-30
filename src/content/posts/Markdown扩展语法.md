@@ -2,7 +2,7 @@
 title: 'Markdown 扩展语法'
 description: 'Litos 主题中增强型 Markdown 功能的综合指南'
 pubDate: 2025-04-29
-author: 'Dnzzk2'
+author: 'Ating'
 recommend: true
 heroImage: 'markdown-extension-syntax.webp'
 ogImage: 'markdown-extension-syntax.webp'

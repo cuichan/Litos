@@ -19,3 +19,9 @@ This file tracks the project's progress using a task list format.
 *
 * [2025-07-29 17:24:48] - Completed: Update `src/config.ts` to replace frontend skills with Java backend technologies.
 * [2025-07-29 17:31:00] - Completed: Update `src/config.ts` to modify the skills showcase as per user request.
+* [2025-07-30 04:36:34] - Completed: Formatted `src/content/posts/软件基础.md`.
+* [2025-07-30 12:45:02] - Completed: Converted Markdown links in `src/content/posts/软件基础.md`.
+* [2025-07-30 13:03:12] - Completed: Fixed a typo in `src/content/posts/软件基础.md`.
+* [2025-07-30 13:11:13] - Completed: Verified and ensured all `:link` directives in `src/content/posts/软件基础.md` are correctly formatted with a preceding space.
+* [2025-07-30 13:15:46] - Completed: Fixed link formatting in `src/content/posts/软件基础.md`.
+* [2025-07-30 13:24:14] - Completed: Removed `author` and `heroImageAspectRatio` from `src/content/posts/软件基础.md`.
