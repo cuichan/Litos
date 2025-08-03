@@ -25,3 +25,6 @@ This file tracks the project's progress using a task list format.
 * [2025-07-30 13:11:13] - Completed: Verified and ensured all `:link` directives in `src/content/posts/软件基础.md` are correctly formatted with a preceding space.
 * [2025-07-30 13:15:46] - Completed: Fixed link formatting in `src/content/posts/软件基础.md`.
 * [2025-07-30 13:24:14] - Completed: Removed `author` and `heroImageAspectRatio` from `src/content/posts/软件基础.md`.
+
+* [2025-07-31 11:41:29] - Completed: 为“项目经历时间线”功能设计了技术架构。
+* [2025-07-31 11:48:38] - Completed: Implemented the "Project Experience Timeline" feature, including content schema, API route, and frontend components.

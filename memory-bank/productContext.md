@@ -7,11 +7,11 @@ This file provides a high-level overview of the project and the expected product
 
 ## Project Goal
 
-*   
+*   创建一个个人技术博客和作品集，用于系统地记录、展示和分享技术知识与项目经验。
 
 ## Key Features
 
-*   
+*   **项目经历时间线**: 以可视化的时间线形式，结构化地展示个人参与的项目，包括项目描述、技术栈、个人贡献和相关链接。
 
 ## Overall Architecture
 
